@@ -1,0 +1,4 @@
+product_name,sku,batch_number,category,unit,current_quantity,unit_cost,unit_retail,expiry_date,historical_daily_sales,user_estimated_daily_demand,branch_name
+Amul Taaza Homogenised Milk 1L,DAI-AML-01,AML-2610-01,Dairy & Eggs,pouches,28,54,66,2026-10-18,10.0,,Gupta Kirana Store
+Tata Salt Vacuum Evaporated Iodized 1kg,STP-TTS-01,TTS-2610-11,Staples & Grains,packets,84,22,28,,12.0,,Gupta Kirana Store
+Britannia 100% Whole Wheat Bread 400g,BAK-BRB-01,BRB-2610-02,Bakery,loaves,22,38,50,2026-10-18,7.0,,Gupta Kirana Store
