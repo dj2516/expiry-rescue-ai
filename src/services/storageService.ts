@@ -6,7 +6,7 @@ import {
   analyzeProduct,
   SIMULATION_DATE,
 } from '../types';
-import { INITIAL_PRODUCTS, DEMO_DATA_LABEL } from '../data/mockData';
+import { INITIAL_PRODUCTS } from '../data/mockData';
 
 const STORAGE_KEYS = {
   PRODUCTS: 'expiry_rescue_kirana_products_v4',

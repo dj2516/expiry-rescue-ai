@@ -1,4 +1,4 @@
-import { ProductItem } from '../types';
+import type { ProductItem } from '../types/index.ts';
 
 export const DEMO_DATA_LABEL = 'DEMO DATA — SYNTHETIC';
 

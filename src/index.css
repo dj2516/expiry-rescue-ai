@@ -14,6 +14,21 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+/* Ensure accessible and visible keyboard focus states */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible {
+  outline: 2px solid #059669;
+  outline-offset: 2px;
+}
+
+/* Table numbers should be monospaced/tabular for financial alignment */
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
 /* Custom scrollbars for clean dashboard look */
 ::-webkit-scrollbar {
   width: 6px;

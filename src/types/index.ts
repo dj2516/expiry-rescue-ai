@@ -39,6 +39,8 @@ export interface ChatMessage {
   text: string;
   timestamp: string;
   isRuleBased?: boolean;
+  toolsUsed?: string[];
+  provider?: string;
 }
 
 export const SIMULATION_DATE = '2026-10-17';

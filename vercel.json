@@ -1,0 +1,8 @@
+{
+  "framework": "vite",
+  "rewrites": [
+    { "source": "/api/agent/status", "destination": "/api/status" },
+    { "source": "/api/agent", "destination": "/api/agent" },
+    { "source": "/((?!api/).*)", "destination": "/index.html" }
+  ]
+}
